@@ -1,0 +1,8 @@
+
+Installation
+
+git clone the repo.
+
+Run npm install.
+
+Run node server.js.
